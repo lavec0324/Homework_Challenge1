@@ -42,5 +42,6 @@ Conclusion 4: A majority of kickstarters take place in the lower range under 10k
 
 The limitations of this dataset include having data represented from 2009 to 2017 and may not represent current conditions, especially considering current pandemic conditions from 2020 forward.  Currencies are not standardized so goal and pledged amounts can be misleading based on exchange rate information relative to the US dollar.
 
-What are some other possible tables and/or graphs that we could create?
+### What are some other possible tables and/or graphs that we could create?
+
 A scatter plot of time it takes for successful campaigns to kickoff relative to goal.  Additional graphs can include regional differences of previously created countries as well.
