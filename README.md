@@ -13,7 +13,7 @@ This project is intended to analyze data from several different kickstarter camp
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Utilizing Excel, a pivot table and line graph was created to portray a summed monthly view of successful, failed, and canceled outcomes only.  The excel file used can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Theater Outcomes vs Launch](https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+Utilizing Excel, a pivot table and line graph was created to portray a summed monthly view of successful, failed, and canceled outcomes only.  The excel file used can be found here [Kickstarter_Challenge](https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Theater Outcomes vs Launch](https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Utilizing Excel, a pivot table and line graph was created to portray a view of successful, failed, and canceled outcomes of kickstarter campaigns by goal ranges.  The excel file used can be found here [Kickstarter_Challenge](https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Outcomes Based on Goals](https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Outcomes_vs_Goals.png)
