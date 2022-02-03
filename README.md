@@ -4,7 +4,7 @@ Initial add for challenge 1
 
 ## Overview of Project
 
-This project is intended to analyze kickstarter campaign data to provide Louise additional insight on how campaigns fared relative to different measures and parameters.  The excel kickstarter file was used as basis for the analysis and can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx)
+This project is intended to analyze kickstarter campaign data to provide Louise additional insight on how campaigns fared relative to different measures and parameters.  The excel kickstarter file was used as basis for the analysis and can be found here [Kickstarter_Challenge](https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx)
 
 ## Purpose
 This project is intended to analyze data from several different kickstarter campaigns.  More specifically, it is intended to provide insight on how what relationships can be deduced from outcomes relative to their launch dates and their funding goals.
@@ -13,10 +13,10 @@ This project is intended to analyze data from several different kickstarter camp
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-Utilizing Excel, a pivot table and line graph was created to portray a summed monthly view of successful, failed, and canceled outcomes only.  The excel file used can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Theater Outcomes vs Launch] (https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Theater_Outcomes_vs_Launch.png)
+Utilizing Excel, a pivot table and line graph was created to portray a summed monthly view of successful, failed, and canceled outcomes only.  The excel file used can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Theater Outcomes vs Launch](https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Utilizing Excel, a pivot table and line graph was created to portray a view of successful, failed, and canceled outcomes of kickstarter campaigns by goal ranges.  The excel file used can be found here [Kickstarter_Challenge] (https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Outcomes Based on Goals] (https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Outcomes_vs_Goals.png)
+Utilizing Excel, a pivot table and line graph was created to portray a view of successful, failed, and canceled outcomes of kickstarter campaigns by goal ranges.  The excel file used can be found here [Kickstarter_Challenge](https://github.com/lavec0324/Homework_Challenge1/blob/main/Kickstarter_Challenge.xlsx) and the graph can be found here ![Outcomes Based on Goals](https://github.com/lavec0324/Homework_Challenge1/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 While there were no specific challenges with the data itself, the time to create forumulas for each outcome based on ranges was time consuming. Some of this was offset by creating a row that captured the name of the outcome in the cell as a lookup instead of using text.  This will also allow for easy updates in the future if the outcomes names are to change.  Additionaly in hindsight, creating defined names for each of the rows would have been more efficient and also referencing goal amounts in a cell rather than hardcoding the ranges.  Also the range amounts could have been cutoff at 20k being the upper limit so that the number of ranges was reduced.  Finally, I could get to the same chart by utilizing pivot tables and charts in a fraction of the time of the sumif fromulas.  This is included in the workbook as a hidden sheet called pivot_outcomes.
