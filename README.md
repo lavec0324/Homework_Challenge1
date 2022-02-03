@@ -26,7 +26,7 @@ What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 
 Conclusion 1: May appears to be a good time for successul outcomes for theater.  This may have something to do with activity picking up as we approach summer and people wanting to go out to experience theater events.  However we would need to analyze country by country as May has different temperatures in Northern and Southern hemispheres.
 
-Conclusion 2: Month of the year does not seem to have an impact on when theater kickstarters fail.  Failures range from 33-52 over the year which represents a pretty consistent range especially when looked at as a percentage of total outcomes (even though this did represent the live outcome).
+Conclusion 2: Month of the year does not seem to have an impact on when theater kickstarters fail.  Failures range from 33-52 over the year which represents a pretty consistent range especially when looked at as a percentage of total outcomes (even though this did not represent the live outcome).
 
 What can you conclude about the Outcomes based on Goals?
 
