@@ -22,13 +22,13 @@ Utilizing Excel, a pivot table and line graph was created to portray a view of s
 While there were no specific challenges with the data itself, the time to create forumulas for each outcome based on ranges was time consuming. Some of this was offset by creating a row that captured the name of the outcome in the cell as a lookup instead of using text.  This will also allow for easy updates in the future if the outcomes names are to change.  Additionaly in hindsight, creating defined names for each of the rows would have been more efficient and also referencing goal amounts in a cell rather than hardcoding the ranges.  Also the range amounts could have been cutoff at 20k being the upper limit so that the number of ranges was reduced.  Finally, I could get to the same chart by utilizing pivot tables and charts in a fraction of the time of the sumif fromulas.  This is included in the workbook as a hidden sheet called pivot_outcomes.
 
 ## Results
-What are two conclusions you can draw about the Theater Outcomes by Launch Date?
+### What are two conclusions you can draw about the Theater Outcomes by Launch Date?
 
 Conclusion 1: May appears to be a good time for successul outcomes for theater.  This may have something to do with activity picking up as we approach summer and people wanting to go out to experience theater events.  However we would need to analyze country by country as May has different temperatures in Northern and Southern hemispheres.
 
 Conclusion 2: Month of the year does not seem to have an impact on when theater kickstarters fail.  Failures range from 33-52 over the year which represents a pretty consistent range especially when looked at as a percentage of total outcomes (even though this did not represent the live outcome).
 
-What can you conclude about the Outcomes based on Goals?
+### What can you conclude about the Outcomes based on Goals?
 
 Conclusion 1: The highest of goals (above 45k) have the greatest failure rates.
 
@@ -38,7 +38,7 @@ Conclusion 3: There appears to be a relationship between goal ranges and success
 
 Conclusion 4: A majority of kickstarters take place in the lower range under 10k goals.
 
-What are some limitations of this dataset?
+### What are some limitations of this dataset?
 
 The limitations of this dataset include having data represented from 2009 to 2017 and may not represent current conditions, especially considering current pandemic conditions from 2020 forward.  Currencies are not standardized so goal and pledged amounts can be misleading based on exchange rate information relative to the US dollar.
 
